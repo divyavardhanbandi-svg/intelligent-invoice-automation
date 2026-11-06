@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+# Optional: only needed for real PDFs and scanned images
+# pdfplumber
+# pytesseract
+# pillow
